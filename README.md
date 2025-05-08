@@ -1,25 +1,20 @@
-# Final Project and Deployment
+# TeachBot: AI Copilot for Teachers
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+TeachBot is a multipage educational website built to explore the idea of AI support in classrooms. It includes a home page, about section, and contact form.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Pages
+- **index.html** – Landing page introducing the concept
+- **about.html** – Describes what TeachBot is and how it helps
+- **contact.html** – Contact form for users to get in touch
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Features
+- Fully responsive navigation bar
+- Consistent footer and styling
+- Embedded images with alt text
 
-## Tasks
+## View Live
+Website link: https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Wandile-lab/index.html
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+## Author
+Wandile Ndlovu  
+GitHub: https://github.com/Wandile-lab
